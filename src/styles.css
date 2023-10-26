@@ -1,6 +1,10 @@
 body {
   text-align: center;
-  background-color: rgb(204, 149, 113);
+  background: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
+  background-image: url('background.jpg');
+  background-size: 100;
+  background-position: fixed;
+  
 }
 
 h1 {
