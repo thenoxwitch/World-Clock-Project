@@ -49,6 +49,18 @@ img {
   display: block;
 }
 
+.link-main {
+  color: #000000;
+
+  font-weight: bold;
+  border: 2px solid #000000;
+
+  font-size: 14px;
+  background-color: rgb(178, 184, 214);
+  border-radius: 5px;
+  padding: 3px;
+}
+
 .dropdown {
   padding: 8px;
   width: 400px;
