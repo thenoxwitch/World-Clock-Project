@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-  font-weight: 30px;
+  font-size: 50px;
   font-family: "Orbitron", sans-serif;
   color: #ffffff;
   text-shadow: 5px 5px 7px rgba(6, 1, 48, 0.6);
@@ -77,8 +77,9 @@ img {
 .time {
   color: #c4d5e5;
   position: relative;
-  bottom: -40px;
+  bottom: -30px;
   right: 20px;
+  font-size: 30px;
 }
 .footer-text {
   font-size: 14px;
