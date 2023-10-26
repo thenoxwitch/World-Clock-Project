@@ -99,3 +99,23 @@ img {
 .footer-text {
   font-size: 14px;
 }
+
+@media only screen and (max-width: 400px) {
+  .dropdown {
+    width: 200px;
+  }
+  .container {
+    width: 390px;
+    position: relative;
+    top: 30px;
+  }
+
+  body {
+    background-position: fixed;
+  }
+
+  img {
+    position: relative;
+    left: 120px;
+  }
+}
